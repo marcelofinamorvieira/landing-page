@@ -125,11 +125,8 @@ input {
   width: 70%;
   font-size: 1.3em;
   margin: 10px;
-  border: solid gray;
-  border-radius: 10px;
 }
 #send {
-  border: solid gray;
   width: 40%;
 }
 #form-title {
@@ -142,6 +139,4 @@ textarea {
   font-size: 1em;
   width: 90%;
   margin: 20px;
-  border: solid gray;
-  border-radius: 10px;
 }
